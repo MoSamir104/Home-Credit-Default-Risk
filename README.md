@@ -83,7 +83,7 @@ This analysis guided the feature engineering and selection process.
 
 ## Feature Engineering and Selection
 
-The original dataset contained more than 600 features. Dimensionality reduction was necessary to improve model interpretability, reduce noise, and enhance performance.
+The original dataset contained more than 1000 features. Dimensionality reduction was necessary to improve model interpretability, reduce noise, and enhance performance.
 
 ### Step 1: Initial Feature Pruning
 
